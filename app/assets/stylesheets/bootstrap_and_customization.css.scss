@@ -1,1 +1,20 @@
+
+$brand-primary: #16a085;
+
+$navbar-default-bg: white;
+
+
+$navbar-height: 75px;
+$navbar-default-brand-color: $brand-primary;
+$navbar-default-link-color: #16a085;
+$navbar-default-link-hover-color: darken($navbar-default-link-color, 10%);
+$navbar-border-radius: 0px;
+
+
+$body-bg: #ecf0f1;
+
+$link-color: #ecf0f1;
+
+$jumbotron-bg: $navbar-default-bg;
+
 @import 'bootstrap';
